@@ -6,12 +6,12 @@ I obtained my B.S. in Computer Science from University of California, San Diego 
 
 Email: haozhean36@gmail.com 
 
-Or if you are experiencing difficulties reaching Google: haozhe.an@yahoo.com
+In case you are experiencing difficulties reaching Gmail: haozhe.an@yahoo.com
 
 I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/).
 
 
-
+_This site is under construction._
 
 
 
