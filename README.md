@@ -7,7 +7,7 @@ haozhean36@gmail.com
 Or if you are experiencing difficulties reaching Google
 haozhe.an@yahoo.com
 
-I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/)
+I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/).
 
 
 
