@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Haozhe (Herman) An]
 description: [Welcome to Haozhe's personal website.]
-logo: [https://raw.githubusercontent.com/haozhe-an/haozhe-an.github.io/master/IMG_0117.JPG]
+logo: [./IMG_0117.JPG]
