@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Haozhe (Herman) An
 
-You can use the [editor on GitHub](https://github.com/haozhe-an/haozhe-an.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a research intern in Big Data Lab at Baidu, Inc. My supervisor is Mr. Xingjian Li. I obtained my B.S. in Computer Science from University of California, San Diego with Summa Magna Cum (GPA: 3.987/4.0) in 2019. I have braod research interests in deep learning and theoretical computer science. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: haozhean36@gmail.com or haozhe.an@yahoo.com
+
+I also have a LinkedIn profile [here] (https://www.linkedin.com/in/haozhe-an/)
+
+
+
+
+
+
+
 
 ### Markdown
 
