@@ -10,7 +10,6 @@ Or if you are experiencing difficulties reaching Google: haozhe.an@yahoo.com
 
 I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/).
 
-![Image](https://raw.githubusercontent.com/haozhe-an/haozhe-an.github.io/master/IMG_4167.JPG)
 
 
 
