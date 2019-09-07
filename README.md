@@ -1,6 +1,8 @@
 ## Haozhe (Herman) An
 
-I'm a research intern in Big Data Lab at Baidu, Inc. My supervisor is Mr. Xingjian Li. I obtained my B.S. in Computer Science from University of California, San Diego with Summa Magna Cum (GPA: 3.987/4.0) in 2019. I have braod research interests in deep learning and theoretical computer science. 
+I'm currently a research intern in Big Data Lab at Baidu, Inc. My supervisor is Mr. Xingjian Li. 
+
+I obtained my B.S. in Computer Science from University of California, San Diego with Summa Magna Cum (GPA: 3.987/4.0) in 2019. I have braod research interests in deep learning and theoretical computer science. 
 
 Email 
 haozhean36@gmail.com 
@@ -9,7 +11,7 @@ haozhe.an@yahoo.com
 
 I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/).
 
-
+![Image](https://raw.githubusercontent.com/haozhe-an/haozhe-an.github.io/master/IMG_4167.JPG)
 
 
 
