@@ -63,6 +63,7 @@ I also enjoy having road trips! It was a great experience driving along Route 66
 One really important thing: Thanks to my parents who have been generously supporting me to travel around the world and open my eyes!
 
 I have visited:
+- China (Of course! I'm from here.)
 - Singapore
 - Malaysia
 - Indonesia
