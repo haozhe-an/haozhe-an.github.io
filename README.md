@@ -46,10 +46,12 @@ I admire people who consistently inspire others through teaching. I wish I could
 
 (Yes, Dr. Mia Minnes is my favorite professor in UC San Diego and I enjoyed to be her tutor very, very, very much. One 'very' for each time tutoring for her!)
 
-## Awards
-- Singapore SM1 School-based Scholarship (2011-2015)
+## Honors and Awards
+- Singapore SM1 School-based Scholarship (2011 - 2015)
 - [Max Planck Society Travel Fellowship](https://cmmrs2018.mpi-sws.org/) (2018)
+- Tau Beta Pi Engineering Honor Society (2018 - present)
 - [UC Scholars Program Award](https://students.ucsd.edu/sponsor/uc-scholars/index.html) (2019)
+- Phi Beta Kappa Society (2019 - present)
 
 ## Life is more enjoyable with...
 ### Traveling 
