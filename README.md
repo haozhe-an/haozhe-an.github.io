@@ -44,8 +44,8 @@ CSE 105 - Theory of Computation with [Dr. Mia Minnes](http://cseweb.ucsd.edu/~mi
 ### Traveling 
 I love traveling to different places with my family and friends. There are uncountable elements of the trips that make them memorable: The unforgettable experience of seeing an amazing and unique glacier landscape in El Calafate, Argentina, the fun conversations with people from all over the world in the desert of Morocco, the stupid and embarrassing cultural mistakes I have commited while transiting in Netherlands, the scrumptious Ichiran ramen I had multiple times with my Singaporean friends... 
 
-![potatochips](IMG_9524.HEIC)
-I was at Potato Chip Rock!
+![potatochips](IMG_3446.jpg)
+I was at Potato Chip Rock in San Diego!
 
 I also enjoy having road trips! It was a great experience driving along Route 66 from Chicago all the way to Los Angeles with my greatest clique ever. Drving from San Francisco to Los Angeles on California State 1 with some of my best high school friends was another awesome trip.
 
