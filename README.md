@@ -14,7 +14,7 @@ I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/).
 ### Deep Learning and Artificial Intelligence 
 My very first research experience was about Natural Language Processing (NLP) in BOE Technology Group Co., Ltd. I worked on a project about disease diagnosis in healthcare services under the guidance of Mr. Xingjian Li. This experience sparked my interests in further exploring NLP.
 
-I worked on another NLP project with two classmates. We used a RNN model and developed a [Haiku Generator](https://github.com/haozhe-an/Haiku_Generator) that is able to generate a complete Haiku that rhymes. If you aren't familair with Haiku, it is a Japanese style short poem with several rules for its strcture. The presentation slides for the project is available [here](https://github.com/haozhe-an/Haiku_Generator/blob/master/lign167_presentation.pptx). 
+I worked on another NLP project with two classmates. We used a RNN model and developed a [Haiku Generator](https://github.com/haozhe-an/Haiku_Generator) that is able to generate a complete Haiku that rhymes. If you aren't familair with Haiku, it is a Japanese style short poem with several rules restricting its strcture. The presentation slides for the project is available [here](https://github.com/haozhe-an/Haiku_Generator/blob/master/lign167_presentation.pptx). 
 
 ![haiku](haiku.png)
 
@@ -53,7 +53,7 @@ CSE 105 - Theory of Computation with [Dr. Mia Minnes](http://cseweb.ucsd.edu/~mi
 
 ## Life is more enjoyable with...
 ### Traveling 
-I love traveling to different places with my family and friends. There are uncountable elements of the trips that make them memorable: The unforgettable experience of seeing an amazing and unique glacier landscape in El Calafate, Argentina, the fun conversations with people from all over the world in the desert of Morocco, the stupid and embarrassing cultural mistakes I have commited while transiting in Netherlands, the scrumptious Ichiran ramen I had multiple times with my Singaporean friends... 
+I love traveling to different places with my family and friends. There are uncountable elements in these trips that make them memorable: The unforgettable experience of seeing an amazing and unique glacier landscape in El Calafate, Argentina, the fun conversations with people from all over the world in the desert of Morocco, the stupid and embarrassing cultural mistakes I have commited while transiting in Netherlands, the scrumptious Ichiran ramen I had multiple times with my Singaporean friends... 
 
 ![potatochips](IMG_3446.jpg)
 I was at Potato Chip Rock in San Diego!
