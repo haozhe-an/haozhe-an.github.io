@@ -34,7 +34,7 @@ Perhaps we should develop more theories that explain why a neural network works.
 
 These theories would allow computers to study well so as to pass the Turing test.
 
-![turingtest](https://classic.csunplugged.org/wp-content/uploads/2015/03/turing-test.jpg1246936875)
+![turingtest](classic.csunplugged.org/wp-content/uploads/2015/03/turing-test.jpg1246936875)
 
 ## Tutoring
 I admire people who consistently inspire others through teaching. I wish I could be like them some day by becoming a great teacher. I was fortunate to be an undergraduate tutor to assist professors in various courses. My role is mainly to answer students' questions in tutor hours, grade homework assignments, proofread course materials and offer suggestions for improvement, and promote student interactions in lectures. I have tutored the follwoing courses:
