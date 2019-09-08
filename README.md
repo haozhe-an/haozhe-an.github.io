@@ -8,7 +8,7 @@ In case you are experiencing difficulties reaching Gmail: haozhe.an@yahoo.com
 
 I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/).
 
-![grad](IMG_4167.JPG)
+![grad](IMG_0243.JPG)
 
 ## Research Experience
 ### Deep Learning and Artificial Intelligence 
