@@ -12,13 +12,13 @@ I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/).
 
 ## Research Experience
 ### Deep Learning and Artificial Intelligence 
-My very first research experience was about Natural Language Processing (NLP) in BOE Technology Group Co., Ltd. I worked on a project about disease diagnosis in healthcare services under the guidance of Mr. Xingjian Li. This experience sparked my interests in further exploring NLP.
+My very first research experience was about Natural Language Processing (NLP) in BOE Technology Group Co., Ltd. in 2017. I worked on a project about disease diagnosis in healthcare services under the guidance of Mr. Xingjian Li. This experience sparked my interests in further exploring NLP.
 
 I worked on another NLP project with two classmates. We used a RNN model and developed a [Haiku Generator](https://github.com/haozhe-an/Haiku_Generator) that is able to generate a complete Haiku that rhymes. If you aren't familair with Haiku, it is a Japanese style short poem with several rules restricting its strcture. The presentation slides for the project is available [here](https://github.com/haozhe-an/Haiku_Generator/blob/master/lign167_presentation.pptx). 
 
 ![haiku](haiku.png)
 
-I was fortunate to spend my summer at Colorado School of Mines as a research assistant in [Dr. Xiaoli Zhang's lab](http://xzhanglab.mines.edu/). I contributed to a Human-Robot Interatction project by carrying out an experiment and analyzing its results. I also learned about [transfer learning](https://github.com/haozhe-an/Transfer_Learning_CDM).
+In 2018, I was fortunate to spend my summer at Colorado School of Mines as a research assistant in [Dr. Xiaoli Zhang's lab](http://xzhanglab.mines.edu/). I contributed to a Human-Robot Interatction project by carrying out an experiment and analyzing its results. I also learned about [transfer learning](https://github.com/haozhe-an/Transfer_Learning_CDM).
 
 I'm now working at the Big Data Lab at Baidu, Inc with Mr. Xingjian Li again. My current project is about model compression and transfer learning.
 
