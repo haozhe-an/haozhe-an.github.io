@@ -25,7 +25,7 @@ I'm now working at the Big Data Lab at Baidu, Inc with Mr. Xingjian Li again. My
 ### Theoretical Computer Science
 From a theory class taught by [Dr. Mia Minnes](http://cseweb.ucsd.edu/~minnes/) in UC San Diego, I found myself to be deeply interested in theoretical computer science. I love algorithm designs, theory of computation and cryptography. 
 
-It was a very rewarding experience to do research in Fine-grained Complexity Algorithm Design under [Dr. Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/)'s supervision. I was part of a reasearch group of four. I was supported by UC Scholars Program for the duration of the research. Slides for my presentation in Summer Research Conference at UC San Diego are available [here](https://www.slideshare.net/slideshow/embed_code/key/Hc1Jnnw5Wpx1vp).
+It was a very rewarding experience to do research in Fine-grained Complexity and Algorithm Design under [Dr. Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/)'s supervision. I was part of a reasearch group of four. I was supported by UC Scholars Program for the duration of the research. Slides for my presentation in Summer Research Conference at UC San Diego are available [here](https://www.slideshare.net/slideshow/embed_code/key/Hc1Jnnw5Wpx1vp).
 
 Hypotheses arouse my curiosity because they are open questions that contain limitless possibilities. Theories fulfill my curiosity because they tell us what is possible to achieve and what is not. It would be indeed amazing if I could turn a hypothesis to a theory some time soon. 
 
