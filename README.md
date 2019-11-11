@@ -20,7 +20,7 @@ I worked on another NLP project with two classmates. We used a RNN model and dev
 
 In 2018, I was fortunate to spend my summer at Colorado School of Mines as a research assistant in [Dr. Xiaoli Zhang's lab](http://xzhanglab.mines.edu/). I contributed to a Human-Robot Interatction project by carrying out an experiment and analyzing its results. I also learned about [transfer learning](https://github.com/haozhe-an/Transfer_Learning_CDM).
 
-I'm now working at the Big Data Lab at Baidu, Inc with Mr. Xingjian Li again. My current project is about model compression and transfer learning.
+I'm now working at the Big Data Lab at Baidu, Inc, supervised by [Dr. Dejing Dou](https://ix.cs.uoregon.edu/~dou/). I'm working closely with Mr. Xingjian Li again as well as [Dr. Haoyi Xiong](https://sites.google.com/site/haoyixiongshomepage/). My projects have spanned a few topics, including model compression, transfer learning and interpretability of neural networks.
 
 ### Theoretical Computer Science
 From a theory class taught by [Dr. Mia Minnes](http://cseweb.ucsd.edu/~minnes/) in UC San Diego, I found myself to be deeply interested in theoretical computer science. I love algorithm designs, theory of computation and cryptography. 
