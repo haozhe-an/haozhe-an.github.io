@@ -1,40 +1,19 @@
 My name is Haozhe (Herman) An. I'm currently a research intern in Big Data Lab at Baidu, Inc in Beijing, China.
 
-I obtained my B.S. in Computer Science from University of California, San Diego with Summa Magna Cum (GPA: 3.987/4.0) in 2019. I have broad research interests in deep learning and theoretical computer science. 
+I obtained my B.S. in Computer Science from University of California, San Diego with Summa Magna Cum (GPA: 3.987/4.0) in 2019. I am interested in theoretical computer science. 
 
 Email: haozhean36@gmail.com 
-
-In case you are experiencing difficulties reaching Gmail: haozhe.an@yahoo.com
 
 I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/).
 
 ![grad](IMG_0243.JPG)
 
 ## Research Experience
-### Deep Learning and Artificial Intelligence 
-My very first research experience was about Natural Language Processing (NLP) in BOE Technology Group Co., Ltd. in 2017. I worked on a project about disease diagnosis in healthcare services under the guidance of Mr. Xingjian Li. This experience sparked my interests in further exploring NLP.
-
-I worked on another NLP project with two classmates. We used a RNN model and developed a [Haiku Generator](https://github.com/haozhe-an/Haiku_Generator) that is able to generate a complete Haiku that rhymes. If you aren't familair with Haiku, it is a Japanese style short poem with several rules restricting its strcture. The presentation slides for the project is available [here](https://github.com/haozhe-an/Haiku_Generator/blob/master/lign167_presentation.pptx). 
-
-![haiku](haiku.png)
-
-In 2018, I was fortunate to spend my summer at Colorado School of Mines as a research assistant in [Dr. Xiaoli Zhang's lab](http://xzhanglab.mines.edu/). I contributed to a Human-Robot Interatction project by carrying out an experiment and analyzing its results. I also learned about [transfer learning](https://github.com/haozhe-an/Transfer_Learning_CDM).
-
-I'm now working at the Big Data Lab at Baidu, Inc, supervised by [Dr. Dejing Dou](https://ix.cs.uoregon.edu/~dou/). I'm working closely with Mr. Xingjian Li again as well as [Dr. Haoyi Xiong](https://sites.google.com/site/haoyixiongshomepage/). My projects have spanned a few topics, including model compression, transfer learning and interpretability of neural networks.
-
-### Theoretical Computer Science
 From a theory class taught by [Dr. Mia Minnes](http://cseweb.ucsd.edu/~minnes/) in UC San Diego, I found myself to be deeply interested in theoretical computer science. I love algorithm designs, theory of computation and cryptography. 
 
 It was a very rewarding experience to do research in Fine-grained Complexity and Algorithm Design under [Dr. Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/)'s supervision. I was part of a reasearch group of four. I was supported by UC Scholars Program for the duration of the research. Slides for my presentation in Summer Research Conference at UC San Diego are available [here](https://www.slideshare.net/slideshow/embed_code/key/Hc1Jnnw5Wpx1vp).
 
 Hypotheses arouse my curiosity because they are open questions that contain limitless possibilities. Theories fulfill my curiosity because they tell us what is possible to achieve and what is not. It would be indeed amazing if I could turn a hypothesis to a theory some time soon. 
-
-### Intersection of AI and Theoretical Computer Science?
-Perhaps we should develop more theories that explain why a neural network works.
-
-These theories would allow computers to study well so as to pass the Turing test.
-
-![turingtest](turing-test.jpg)
 
 ## Tutoring
 I admire people who consistently inspire others through teaching. I wish I could be like them some day by becoming a great teacher. I was fortunate to be an undergraduate tutor to assist professors in various courses. My role is mainly to answer students' questions in tutor hours, grade homework assignments, proofread course materials and offer suggestions for improvement, and promote student interactions in lectures. I have tutored the following courses:
