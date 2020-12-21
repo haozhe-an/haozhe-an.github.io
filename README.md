@@ -16,11 +16,12 @@ Prior to my internship at Baidu, I did research in Fine-grained Complexity and A
 I also have previous research experience in human-robot interaction and natural language processing.
 
 ## Honors and Awards
-- Singapore SM1 School-based Scholarship (2011 - 2015)
-- [Max Planck Society Travel Fellowship](https://cmmrs2018.mpi-sws.org/) (2018)
-- Tau Beta Pi Engineering Honor Society (2018 - present)
-- [UC Scholars Program Award](https://students.ucsd.edu/sponsor/uc-scholars/index.html) (2019)
+- UMD Dean’s Fellowship (2020)
 - Phi Beta Kappa Society (2019 - present)
+- [UC Scholars Program Award](https://students.ucsd.edu/sponsor/uc-scholars/index.html) (2019)
+- Tau Beta Pi Engineering Honor Society (2018 - present)
+- [Max Planck Society Travel Fellowship](https://cmmrs2018.mpi-sws.org/) (2018)
+- Singapore SM1 School-based Scholarship (2011 - 2015)
 
 ## Life is more enjoyable with...
 ### Traveling 
