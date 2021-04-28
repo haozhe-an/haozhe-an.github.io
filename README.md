@@ -1,6 +1,6 @@
-My name is Haozhe (Herman) An. I'm currently a Ph.D. student at University of Maryland, College Park.
+My name is Haozhe (Herman) An. I'm a Ph.D. student at University of Maryland, College Park. 
 
-I obtained my B.S. in Computer Science from University of California, San Diego with Summa Cum Laude (GPA: 3.987/4.0) in 2019. I am interested in theoretical computer science and deep learning. 
+I obtained my B.S. in Computer Science from University of California, San Diego with Summa Cum Laude (GPA: 3.987/4.0) in 2019.
 
 Email: haozhean36@gmail.com 
 
@@ -8,12 +8,10 @@ I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/). Full C
 
 ![grad](IMG_0243.JPG)
 
-## Research Experience
-I was fortunate to intern at Baidu Research, Beijing China. My mentors were [Dr. Haoyi Xiong](https://sites.google.com/site/haoyixiongshomepage/), Dr. Xingjian Li and Dr. Dejing Dou. We mainly worked on interpretability of deep learning and transfer learning. [Our work](http://proceedings.mlr.press/v119/li20r.html) was published at ICML 2020.
+## Research Interests
+I am interested in improving demographic fairness in modern computational linguistic models.
 
-Prior to my internship at Baidu, I did research in Fine-grained Complexity and Algorithm Design under [Dr. Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/)'s supervision. I was part of a reasearch group of four. I was supported by UC Scholars Program for the duration of the research. Slides for my presentation in Summer Research Conference at UC San Diego are available [here](https://www.slideshare.net/slideshow/embed_code/key/Hc1Jnnw5Wpx1vp).
-
-I also have previous research experience in human-robot interaction and natural language processing.
+I am also interested in theoretical computer science. I did research in Fine-grained Complexity and Algorithm Design under [Dr. Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/)'s supervision. I was part of a reasearch group of four. I was supported by UC Scholars Program for the duration of the research. Slides for my presentation in Summer Research Conference at UC San Diego are available [here](https://www.slideshare.net/slideshow/embed_code/key/Hc1Jnnw5Wpx1vp).
 
 ## Honors and Awards
 - UMD Dean’s Fellowship (2020)
