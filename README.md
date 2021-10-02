@@ -9,9 +9,9 @@ I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/). Full C
 ![grad](IMG_0243.JPG)
 
 ## Research Interests
-I am interested in improving demographic fairness in natural language processing models.
+I am interested in improving demographic fairness in AI, especially in natural language processing models.
 
-I am also interested in theoretical computer science. I did research in Fine-grained Complexity and Algorithm Design under [Dr. Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/)'s supervision. I was part of a reasearch group of four. I was supported by UC Scholars Program for the duration of the research. Slides for my presentation in Summer Research Conference at UC San Diego are available [here](https://www.slideshare.net/slideshow/embed_code/key/Hc1Jnnw5Wpx1vp).
+I am also interested in theoretical computer science. I did research in Fine-grained Complexity and Algorithm Design under [Dr. Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/)'s supervision. I was part of a reasearch group of four. I was supported by UC Scholars Program for the duration of the research. 
 
 ## Honors and Awards
 - UMD Dean’s Fellowship (2020)
