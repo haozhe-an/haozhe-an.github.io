@@ -2,7 +2,7 @@ My name is Haozhe (Herman) An. I'm a Ph.D. student at the University of Maryland
 
 I obtained my B.S. in Computer Science from University of California, San Diego with Summa Cum Laude (GPA: 3.987/4.0) in 2019.
 
-Email: haozhean36@gmail.com 
+Email: haozhe@umd.edu
 
 I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/). Full CV is available upon request.
 
