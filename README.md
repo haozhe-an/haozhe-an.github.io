@@ -1,4 +1,4 @@
-My name is Haozhe (Herman) An. I'm a Ph.D. student at University of Maryland, College Park. 
+My name is Haozhe (Herman) An. I'm a Ph.D. student at the University of Maryland, College Park. 
 
 I obtained my B.S. in Computer Science from University of California, San Diego with Summa Cum Laude (GPA: 3.987/4.0) in 2019.
 
@@ -9,7 +9,7 @@ I also have a [LinkedIn profile](https://www.linkedin.com/in/haozhe-an/). Full C
 ![grad](IMG_0243.JPG)
 
 ## Research Interests
-I am interested in improving demographic fairness in modern computational linguistic models.
+I am interested in improving demographic fairness in natural language processing models.
 
 I am also interested in theoretical computer science. I did research in Fine-grained Complexity and Algorithm Design under [Dr. Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/)'s supervision. I was part of a reasearch group of four. I was supported by UC Scholars Program for the duration of the research. Slides for my presentation in Summer Research Conference at UC San Diego are available [here](https://www.slideshare.net/slideshow/embed_code/key/Hc1Jnnw5Wpx1vp).
 
