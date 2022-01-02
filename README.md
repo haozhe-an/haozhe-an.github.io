@@ -4,11 +4,7 @@ I obtained my B.S. in Computer Science from University of California, San Diego 
 
 Email: haozhe@umd.edu
 
-[My Google Scholar page](https://scholar.google.com/citations?user=ZBVLUFYAAAAJ&hl=en)
-
-[My LinkedIn profile](https://www.linkedin.com/in/haozhe-an/)
-
-Full CV is available upon request.
+[My Google Scholar page](https://scholar.google.com/citations?user=ZBVLUFYAAAAJ&hl=en) | [My LinkedIn profile](https://www.linkedin.com/in/haozhe-an/) | Full CV is available upon request.
 
 ![grad](IMG_0243.JPG)
 
