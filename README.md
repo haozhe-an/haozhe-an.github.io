@@ -20,6 +20,12 @@ I am also interested in theoretical computer science. I did research in Fine-gra
 - Singapore SM1 School-based Scholarship (2011 - 2015)
 
 ## Life is more enjoyable with...
+### Learning languages
+中文是我的母语。
+I'm fluent in English.
+Me gusta estudiar Español.
+日本語を勉強しています。
+
 ### Traveling 
 I love traveling to different places with my family and friends. There are uncountable elements in these trips that make them memorable: The unforgettable experience of seeing an amazing and unique glacier landscape in El Calafate, Argentina, the fun conversations with people from all over the world in the desert of Morocco, the stupid and embarrassing cultural mistakes I have commited while transiting in Netherlands, the scrumptious Ichiran ramen I had multiple times with my Singaporean friends in Japan... 
 
