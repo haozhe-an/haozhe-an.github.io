@@ -22,8 +22,11 @@ I am also interested in theoretical computer science. I did research in Fine-gra
 ## Life is more enjoyable with...
 ### Learning languages
 中文是我的母语。
+
 I'm fluent in English.
+
 Me gusta estudiar Español.
+
 日本語を勉強しています。
 
 ### Traveling 
