@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 title: Haozhe An
 logo: ./IMG_2712.JPG
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  Email: haozhe@umd.edu
+  <br>
   <a href="https://www.linkedin.com/in/haozhe-an/">View My LinkedIn Profile</a> 
   <br>
   <a href="https://scholar.google.com/citations?user=ZBVLUFYAAAAJ&hl=en">View My Google Scholar Profile</a> 
