@@ -8,7 +8,7 @@ Full CV is available upon request.
 
 ## Research Interests
 I am interested in improving demographic fairness in AI, especially in NLP models. 
-<!-- I am currently working with [Dr. Rachel Rudinger](https://rudinger.github.io/). -->
+I am advised by [Dr. Rachel Rudinger](https://rudinger.github.io/).
 
 I am also interested in theoretical computer science. I did research in Fine-grained Complexity and Algorithm Design under [Dr. Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/)'s supervision. I was part of a reasearch group of four. I was supported by UC Scholars Program for the duration of the research. 
 
