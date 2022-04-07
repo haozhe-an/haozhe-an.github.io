@@ -10,7 +10,16 @@ Full CV is available upon request.
 I am interested in improving demographic fairness in AI, especially in NLP models. 
 I am advised by [Dr. Rachel Rudinger](https://rudinger.github.io/).
 
-I am also interested in theoretical computer science. I did research in Fine-grained Complexity and Algorithm Design under [Dr. Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/)'s supervision. I was part of a reasearch group of four. I was supported by UC Scholars Program for the duration of the research. 
+## Selected Publications
+**Haozhe An**, Xiaojiang Liu, Jian Zhang. “Learning Bias-reduced Word Embeddings Using Dictionary Defini-
+tions.” *Findings of ACL 2022.*
+
+**Haozhe An**, Michael Bowman, Songpo Li, Xiaoli Zhang. “Robot-Enhanced Telepresence of Remote Teachers
+for Effective Distance Learning.” *2021 IEEE International Conference on Robotics and Biomimetics.*
+
+Xingjian Li, Haoyi Xiong, **Haozhe An**, Chengzhong Xu, Dejing Dou. “RIFLE: Backpropagation in Depth
+for Deep Transfer Learning through Re-Initializing the Fully-connected LayEr.” *International Conference on
+Machine Learning 2020.*
 
 ## Honors and Awards
 - UMD Dean’s Fellowship (2020)
