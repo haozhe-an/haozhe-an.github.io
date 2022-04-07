@@ -11,15 +11,11 @@ I am interested in improving demographic fairness in AI, especially in NLP model
 I am advised by [Dr. Rachel Rudinger](https://rudinger.github.io/).
 
 ## Selected Publications
-**Haozhe An**, Xiaojiang Liu, Jian Zhang. “Learning Bias-reduced Word Embeddings Using Dictionary Defini-
-tions.” *Findings of ACL 2022.*
+**Haozhe An**, Xiaojiang Liu, Jian Zhang. “Learning Bias-reduced Word Embeddings Using Dictionary Definitions.” *Findings of ACL 2022.*
 
-**Haozhe An**, Michael Bowman, Songpo Li, Xiaoli Zhang. “Robot-Enhanced Telepresence of Remote Teachers
-for Effective Distance Learning.” *2021 IEEE International Conference on Robotics and Biomimetics.*
+**Haozhe An**, Michael Bowman, Songpo Li, Xiaoli Zhang. “Robot-Enhanced Telepresence of Remote Teachers for Effective Distance Learning.” *2021 IEEE International Conference on Robotics and Biomimetics.*
 
-Xingjian Li, Haoyi Xiong, **Haozhe An**, Chengzhong Xu, Dejing Dou. “RIFLE: Backpropagation in Depth
-for Deep Transfer Learning through Re-Initializing the Fully-connected LayEr.” *International Conference on
-Machine Learning 2020.*
+Xingjian Li, Haoyi Xiong, **Haozhe An**, Chengzhong Xu, Dejing Dou. “RIFLE: Backpropagation in Depth for Deep Transfer Learning through Re-Initializing the Fully-connected LayEr.” *International Conference on Machine Learning 2020.*
 
 ## Honors and Awards
 - UMD Dean’s Fellowship (2020)
