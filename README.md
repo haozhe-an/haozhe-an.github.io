@@ -1,4 +1,4 @@
-I'm a Ph.D. student at the University of Maryland, College Park. 
+I'm a Ph.D. student at the University of Maryland, College Park. I am advised by [Dr. Rachel Rudinger](https://rudinger.github.io/).
 
 I obtained my B.S. in Computer Science from University of California, San Diego with Summa Cum Laude (GPA: 3.987/4.0) in 2019.
 
@@ -8,12 +8,9 @@ Full CV is available upon request.
 
 ## Research Interests
 I am interested in improving demographic fairness in AI, especially in NLP models. 
-I am advised by [Dr. Rachel Rudinger](https://rudinger.github.io/).
 
 ## Selected Publications
 **Haozhe An**, Xiaojiang Liu, Jian Zhang. “Learning Bias-reduced Word Embeddings Using Dictionary Definitions.” *Findings of ACL 2022.*
-
-**Haozhe An**, Michael Bowman, Songpo Li, Xiaoli Zhang. “Robot-Enhanced Telepresence of Remote Teachers for Effective Distance Learning.” *2021 IEEE International Conference on Robotics and Biomimetics.*
 
 Xingjian Li, Haoyi Xiong, **Haozhe An**, Chengzhong Xu, Dejing Dou. “RIFLE: Backpropagation in Depth for Deep Transfer Learning through Re-Initializing the Fully-connected LayEr.” *International Conference on Machine Learning 2020.*
 
