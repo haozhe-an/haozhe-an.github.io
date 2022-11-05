@@ -7,7 +7,7 @@ Full CV is available upon request.
 ![grad](IMG_0243.JPG)
 
 ## Research Interests
-I am interested in improving demographic fairness in AI, especially in NLP models. 
+I am interested in improving demographic fairness in AI, especially in NLP models. I am also interested in natural langauge understanding (NLU) and commonsense reasoning.
 
 ## Selected Publications
 **Haozhe An**, Xiaojiang Liu, Jian Zhang. “Learning Bias-reduced Word Embeddings Using Dictionary Definitions.” *Findings of ACL 2022.*
