@@ -1,10 +1,8 @@
-I'm a Ph.D. student at the University of Maryland, College Park. I am advised by [Dr. Rachel Rudinger](https://rudinger.github.io/).
+I'm a Ph.D. student at the University of Maryland, College Park. I am advised by [Prof. Rachel Rudinger](https://rudinger.github.io/).
 
 I obtained my B.S. in Computer Science from University of California, San Diego with Summa Cum Laude (GPA: 3.987/4.0) in 2019.
 
 Full CV is available upon request.
-
-![grad](IMG_0243.JPG)
 
 ## Research Interests
 I am interested in improving demographic fairness in AI, especially in NLP models. I am also interested in natural langauge understanding (NLU) and commonsense reasoning.
