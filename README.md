@@ -8,15 +8,15 @@ Full CV is available upon request.
 I am interested in improving demographic fairness in AI, especially in NLP models. I am also interested in natural langauge understanding (NLU) and commonsense reasoning.
 
 ## Selected Publications
-**Haozhe An**, Zongxia Li, Jieyu Zhao, Rachel Rudinger. \\
-"SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models." *EACL 2023.*
+"SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models." \\
+**Haozhe An**, Zongxia Li, Jieyu Zhao, Rachel Rudinger. *EACL 2023.*
 
-**Haozhe An**, Xiaojiang Liu, Jian Zhang. \\
-“Learning Bias-reduced Word Embeddings Using Dictionary Definitions.” *Findings of ACL 2022.* \\
+"Learning Bias-reduced Word Embeddings Using Dictionary Definitions." \\
+**Haozhe An**, Xiaojiang Liu, Jian Zhang. *Findings of ACL 2022.* \\
 \[[paper](https://aclanthology.org/2022.findings-acl.90/)\]\[[code](https://github.com/haozhe-an/dd-glove)\]
 
-Xingjian Li, Haoyi Xiong, **Haozhe An**, Chengzhong Xu, Dejing Dou. \\
-“RIFLE: Backpropagation in Depth for Deep Transfer Learning through Re-Initializing the Fully-connected LayEr.” *ICML 2020.* \\
+"RIFLE: Backpropagation in Depth for Deep Transfer Learning through Re-Initializing the Fully-connected LayEr." \\
+Xingjian Li, Haoyi Xiong, **Haozhe An**, Chengzhong Xu, Dejing Dou. *ICML 2020.* \\
 \[[paper](http://proceedings.mlr.press/v119/li20r/li20r.pdf)\]\[[code](https://github.com/haozhe-an/RIFLE-Paddle-Implementation)\]
 
 ## Honors and Awards
