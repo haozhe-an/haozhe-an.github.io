@@ -5,7 +5,7 @@ I obtained my B.S. in Computer Science from University of California, San Diego 
 Full CV is available upon request.
 
 ## Research Interests
-I am interested in improving demographic fairness in AI, especially in NLP models. I am also interested in natural langauge understanding (NLU) and commonsense reasoning.
+I am interested in improving demographic fairness in AI, especially in NLP models. I am also interested in natural language understanding (NLU) and commonsense reasoning.
 
 ## Selected Publications
 "SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models." \\
