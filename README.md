@@ -10,7 +10,7 @@ I am interested in improving demographic fairness in AI, especially in NLP model
 ## Selected Publications
 "SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models." \\
 **Haozhe An**, Zongxia Li, Jieyu Zhao, Rachel Rudinger. *EACL 2023.* \\
-\[[paper](https://doi.org/10.48550/arXiv.2210.07269)\]\[[code](https://github.com/haozhe-an/SODAPOP)\]
+\[[paper](https://aclanthology.org/2023.eacl-main.116/)\]\[[code](https://github.com/haozhe-an/SODAPOP)\]
 
 "Learning Bias-reduced Word Embeddings Using Dictionary Definitions." \\
 **Haozhe An**, Xiaojiang Liu, Jian Zhang. *Findings of ACL 2022.* \\
