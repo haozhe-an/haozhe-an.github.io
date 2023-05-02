@@ -8,6 +8,9 @@ Full CV is available upon request.
 I am interested in improving demographic fairness in AI, especially in NLP models. I am also interested in natural language understanding (NLU) and commonsense reasoning.
 
 ## Selected Publications
+"Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases." \\
+**Haozhe An**, Rachel Rudinger. *ACL 2023.* \\
+
 "SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models." \\
 **Haozhe An**, Zongxia Li, Jieyu Zhao, Rachel Rudinger. *EACL 2023.* \\
 \[[paper](https://aclanthology.org/2023.eacl-main.116/)\]\[[code](https://github.com/haozhe-an/SODAPOP)\]
