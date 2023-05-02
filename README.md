@@ -9,7 +9,7 @@ I am interested in improving demographic fairness in AI, especially in NLP model
 
 ## Selected Publications
 "Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases." \\
-**Haozhe An**, Rachel Rudinger. *ACL 2023.* \\
+**Haozhe An**, Rachel Rudinger. *ACL 2023.*
 
 "SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models." \\
 **Haozhe An**, Zongxia Li, Jieyu Zhao, Rachel Rudinger. *EACL 2023.* \\
