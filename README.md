@@ -10,15 +10,15 @@ I am interested in improving demographic fairness in AI, especially in NLP model
 ## Selected Publications
 "Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases." \\
 **Haozhe An**, Rachel Rudinger. *ACL 2023.* \\
-\[[paper](http://arxiv.org/abs/2305.16577)\]
+\[[paper](http://arxiv.org/abs/2305.16577)\]\[[poster](https://drive.google.com/file/d/11dLLqfwTk_N_39thmAp0H2bsnf745NIy/view?usp=sharing)\]\[[video](https://drive.google.com/file/d/10hw5qMo_enPoIoSFIDwUIxvyXOhRRbTV/view?usp=sharing)\]
 
 "SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models." \\
 **Haozhe An**, Zongxia Li, Jieyu Zhao, Rachel Rudinger. *EACL 2023.* \\
-\[[paper](https://aclanthology.org/2023.eacl-main.116/)\]\[[code](https://github.com/haozhe-an/SODAPOP)\]
+\[[paper](https://aclanthology.org/2023.eacl-main.116/)\]\[[code](https://github.com/haozhe-an/SODAPOP)\]\[[poster](https://drive.google.com/file/d/1rcdoDCqgkd_7lP25qw5yXI3k6fuGCPUa/view?usp=sharing)\]\[[video](https://drive.google.com/file/d/1xVkJEOCWdr5hQIYe6Sv0ogYhQGKAzAmi/view?usp=sharing)\]
 
 "Learning Bias-reduced Word Embeddings Using Dictionary Definitions." \\
 **Haozhe An**, Xiaojiang Liu, Jian Zhang. *Findings of ACL 2022.* \\
-\[[paper](https://aclanthology.org/2022.findings-acl.90/)\]\[[code](https://github.com/haozhe-an/dd-glove)\]
+\[[paper](https://aclanthology.org/2022.findings-acl.90/)\]\[[code](https://github.com/haozhe-an/dd-glove)\]\[[poster](https://drive.google.com/file/d/1Jdmo2gj0C9mCdUUNh94P7Tlrdo5Opom8/view?usp=sharing)\]\[[video]([https://drive.google.com/file/d/1Jdmo2gj0C9mCdUUNh94P7Tlrdo5Opom8/view?usp=sharing](https://drive.google.com/file/d/1JfYskstFD0yNbji_aDAaxP8wUPb_o-5U/view?usp=sharing))\]
 
 "RIFLE: Backpropagation in Depth for Deep Transfer Learning through Re-Initializing the Fully-connected LayEr." \\
 Xingjian Li, Haoyi Xiong, **Haozhe An**, Chengzhong Xu, Dejing Dou. *ICML 2020.* \\
