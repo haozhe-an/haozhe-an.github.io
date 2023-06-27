@@ -14,4 +14,3 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://scholar.google.com/citations?user=ZBVLUFYAAAAJ&hl=en">View My Google Scholar Profile</a> 
 google_analytics: UA-147271754-1
 theme: jekyll-theme-minimal
-markdown: kramdown
