@@ -18,7 +18,7 @@ I am interested in improving demographic fairness in AI, especially in NLP model
 
 "Learning Bias-reduced Word Embeddings Using Dictionary Definitions." \\
 **Haozhe An**, Xiaojiang Liu, Jian Zhang. *Findings of ACL 2022.* \\
-\[[paper](https://aclanthology.org/2022.findings-acl.90/)\]\[[code](https://github.com/haozhe-an/dd-glove)\]\[[poster](https://drive.google.com/file/d/1Jdmo2gj0C9mCdUUNh94P7Tlrdo5Opom8/view?usp=sharing)\]\[[video]([https://drive.google.com/file/d/1Jdmo2gj0C9mCdUUNh94P7Tlrdo5Opom8/view?usp=sharing](https://drive.google.com/file/d/1JfYskstFD0yNbji_aDAaxP8wUPb_o-5U/view?usp=sharing))\]
+\[[paper](https://aclanthology.org/2022.findings-acl.90/)\]\[[code](https://github.com/haozhe-an/dd-glove)\]\[[poster](https://drive.google.com/file/d/1Jdmo2gj0C9mCdUUNh94P7Tlrdo5Opom8/view?usp=sharing)\]\[[video](https://drive.google.com/file/d/1JfYskstFD0yNbji_aDAaxP8wUPb_o-5U/view?usp=sharing)\]
 
 "RIFLE: Backpropagation in Depth for Deep Transfer Learning through Re-Initializing the Fully-connected LayEr." \\
 Xingjian Li, Haoyi Xiong, **Haozhe An**, Chengzhong Xu, Dejing Dou. *ICML 2020.* \\
