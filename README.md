@@ -5,7 +5,7 @@ I obtained my B.S. in Computer Science from the University of California, San Di
 Full CV is available upon request.
 
 ## Research Interests
-I am interested in improving demographic fairness in AI, especially in NLP models. I am also interested in natural language understanding (NLU) and commonsense reasoning.
+My research aims to understand and mitigate the problems of bias and fairness in NLP models. My current research projects typically involve the empirical evaluations of large language models and algorithm designs to enhance fairness in natural language understanding and generation.
 
 ## Selected Publications
 "Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases." \\
