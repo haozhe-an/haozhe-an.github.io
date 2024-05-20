@@ -8,6 +8,9 @@ Full CV is available upon request.
 My research aims to understand and mitigate the problems of bias and fairness in NLP models. My current research projects typically involve the empirical evaluations of large language models and algorithm designs to enhance fairness in natural language understanding and generation.
 
 ## Selected Publications
+"Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?" \\
+**Haozhe An**, Christabel Acquaye, Colin Wang, Zongxia Li, Rachel Rudinger. *ACL 2023.* 
+
 "Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases." \\
 **Haozhe An**, Rachel Rudinger. *ACL 2023.* \\
 \[[paper](https://aclanthology.org/2023.acl-short.34/)\]\[[poster](https://drive.google.com/file/d/11dLLqfwTk_N_39thmAp0H2bsnf745NIy/view?usp=sharing)\]\[[video](https://drive.google.com/file/d/10hw5qMo_enPoIoSFIDwUIxvyXOhRRbTV/view?usp=sharing)\]
@@ -20,9 +23,6 @@ My research aims to understand and mitigate the problems of bias and fairness in
 **Haozhe An**, Xiaojiang Liu, Jian Zhang. *Findings of ACL 2022.* \\
 \[[paper](https://aclanthology.org/2022.findings-acl.90/)\]\[[code](https://github.com/haozhe-an/dd-glove)\]\[[poster](https://drive.google.com/file/d/1Jdmo2gj0C9mCdUUNh94P7Tlrdo5Opom8/view?usp=sharing)\]\[[video](https://drive.google.com/file/d/1JfYskstFD0yNbji_aDAaxP8wUPb_o-5U/view?usp=sharing)\]
 
-"RIFLE: Backpropagation in Depth for Deep Transfer Learning through Re-Initializing the Fully-connected LayEr." \\
-Xingjian Li, Haoyi Xiong, **Haozhe An**, Chengzhong Xu, Dejing Dou. *ICML 2020.* \\
-\[[paper](http://proceedings.mlr.press/v119/li20r/li20r.pdf)\]\[[code](https://github.com/haozhe-an/RIFLE-Paddle-Implementation)\]
 
 ## Honors and Awards
 - UMD Dean’s Fellowship (2020)
