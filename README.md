@@ -1,4 +1,4 @@
-I'm a Ph.D. student at the University of Maryland, College Park. I am advised by [Prof. Rachel Rudinger](https://rudinger.github.io/).
+I'm a Ph.D. candidate at the University of Maryland, College Park. I am advised by [Prof. Rachel Rudinger](https://rudinger.github.io/).
 
 I obtained my B.S. in Computer Science from the University of California, San Diego with Summa Cum Laude (GPA: 3.987/4.0) in 2019.
 
