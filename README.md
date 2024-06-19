@@ -10,6 +10,7 @@ My research aims to understand and mitigate the problems of bias and fairness in
 ## Selected Publications
 "Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?" \\
 **Haozhe An**, Christabel Acquaye, Colin Wang, Zongxia Li, Rachel Rudinger. *ACL 2024.* 
+\[[paper](http://arxiv.org/abs/2406.10486)\]
 
 "Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases." \\
 **Haozhe An**, Rachel Rudinger. *ACL 2023.* \\
