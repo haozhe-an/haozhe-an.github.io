@@ -4,6 +4,8 @@ I obtained my B.S. in Computer Science from the University of California, San Di
 
 Full CV is available upon request.
 
+<span style="color: blue;">I am seeking full-time opportunities starting in Summer 2025 or later. If my research and skills align with your team’s needs, please reach out!</span>
+
 ## Research Interests
 My research aims to understand and mitigate the problems of bias and fairness in NLP models. My current research projects typically involve the empirical evaluations of large language models and algorithm designs to enhance fairness in natural language understanding and generation.
 
