@@ -15,7 +15,7 @@ My research aims to understand and mitigate the problems of bias and fairness in
 \* Equal contributions
 
 "Susu Box or Piggy Bank: Assessing Cultural Commonsense Knowledge between Ghana and the US." \\
-Christabel Acquaye, **Haozhe An**, Rachel Rudinger. *EMNLP 2024.* \\
+Christabel Acquaye, **Haozhe An**, Rachel Rudinger. *EMNLP 2024.*
 
 "Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?" \\
 **Haozhe An**, Christabel Acquaye, Colin Wang, Zongxia Li, Rachel Rudinger. *ACL 2024.* \\
