@@ -10,6 +10,13 @@ Full CV is available upon request.
 My research aims to understand and mitigate the problems of bias and fairness in NLP models. My current research projects typically involve the empirical evaluations of large language models and algorithm designs to enhance fairness in natural language understanding and generation.
 
 ## Selected Publications
+"On the Influence of Gender and Race in Romantic Relationship Prediction from Large Language Models." \\
+**Haozhe An**,\* Abhilasha Sancheti,\* Rachel Rudinger. *EMNLP 2024.*\\
+\* Equal contributions
+
+"Susu Box or Piggy Bank: Assessing Cultural Commonsense Knowledge between Ghana and the US." \\
+Christabel Acquaye, **Haozhe An**, Rachel Rudinger. *EMNLP 2024.* \\
+
 "Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?" \\
 **Haozhe An**, Christabel Acquaye, Colin Wang, Zongxia Li, Rachel Rudinger. *ACL 2024.* \\
 \[[paper](https://aclanthology.org/2024.acl-short.37/)\]
