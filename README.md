@@ -12,7 +12,7 @@ My research aims to understand and mitigate the problems of bias and fairness in
 ## Selected Publications
 "On the Influence of Gender and Race in Romantic Relationship Prediction from Large Language Models." \\
 **Haozhe An**,\* Abhilasha Sancheti,\* Rachel Rudinger. *EMNLP 2024.*\\
-\* Equal contributions
+\* Equal contributions \\
 \[[paper](https://arxiv.org/abs/2410.03996)\]
 
 "Susu Box or Piggy Bank: Assessing Cultural Commonsense Knowledge between Ghana and the US." \\
