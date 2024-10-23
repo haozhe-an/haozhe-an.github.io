@@ -16,7 +16,8 @@ My research aims to understand and mitigate the problems of bias and fairness in
 \[[paper](https://arxiv.org/abs/2410.03996)\]
 
 "Susu Box or Piggy Bank: Assessing Cultural Commonsense Knowledge between Ghana and the US." \\
-Christabel Acquaye, **Haozhe An**, Rachel Rudinger. *EMNLP 2024.*
+Christabel Acquaye, **Haozhe An**, Rachel Rudinger. *EMNLP 2024.*\\
+\[[dataset](https://huggingface.co/datasets/Christabel/AMAMMERe)\]
 
 "Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?" \\
 **Haozhe An**, Christabel Acquaye, Colin Wang, Zongxia Li, Rachel Rudinger. *ACL 2024.* \\
@@ -38,7 +39,7 @@ Christabel Acquaye, **Haozhe An**, Rachel Rudinger. *EMNLP 2024.*
 ## Honors and Awards
 - UMD Dean’s Fellowship (2020)
 - Phi Beta Kappa Society (2019 - present)
-- [UC Scholars Program Award](https://students.ucsd.edu/sponsor/uc-scholars/index.html) (2019)
+- [UC Scholars Program Award](https://ugresearch.ucsd.edu/programs/all-urh-programs/uc-scholars/index.html) (2019)
 - Tau Beta Pi Engineering Honor Society (2018 - present)
 - [Max Planck Society Travel Fellowship](https://cmmrs2018.mpi-sws.org/) (2018)
 - Singapore SM1 School-based Scholarship (2011 - 2015)
