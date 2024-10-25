@@ -17,7 +17,7 @@ My research aims to understand and mitigate the problems of bias and fairness in
 
 "Susu Box or Piggy Bank: Assessing Cultural Commonsense Knowledge between Ghana and the US." \\
 Christabel Acquaye, **Haozhe An**, Rachel Rudinger. *EMNLP 2024.*\\
-\[[paper](https://arxiv.org/pdf/2410.16451)\]\[[dataset](https://huggingface.co/datasets/Christabel/AMAMMERe)\]
+\[[paper](https://arxiv.org/abs/2410.16451)\]\[[dataset](https://huggingface.co/datasets/Christabel/AMAMMERe)\]
 
 "Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?" \\
 **Haozhe An**, Christabel Acquaye, Colin Wang, Zongxia Li, Rachel Rudinger. *ACL 2024.* \\
