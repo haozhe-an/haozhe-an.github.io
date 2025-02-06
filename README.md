@@ -20,8 +20,7 @@ Christabel Acquaye, **Haozhe An**, Rachel Rudinger. *EMNLP 2024.*\\
 \[[paper](https://aclanthology.org/2024.emnlp-main.532/)\]\[[dataset](https://huggingface.co/datasets/Christabel/AMAMMERe)\]
 
 "Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?" \\
-**Haozhe An**, Christabel Acquaye, Colin Wang, Zongxia Li, Rachel Rudinger. *ACL 2024.* \\
-<span style="color: teal;">Included in the reading list for a \[[Stanford University course](https://web.stanford.edu/class/cs329r/)\].</span>
+**Haozhe An**, Christabel Acquaye, Colin Wang, Zongxia Li, Rachel Rudinger. *ACL 2024.* <span style="color: teal;">Included in the reading list for [CS 329R, a Stanford University course on "Race and Natural Language Processing."](https://web.stanford.edu/class/cs329r/)</span> \\
 \[[paper](https://aclanthology.org/2024.acl-short.37/)\]\[[poster](https://drive.google.com/file/d/1QDvdE5vQ9pvShw8jIRzpTXkrco5m4tOb/view?usp=sharing)\]
 
 "Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases." \\
