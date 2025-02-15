@@ -51,22 +51,6 @@ Christabel Acquaye, **Haozhe An**, Rachel Rudinger. *EMNLP 2024.*\\
 * Me gusta estudiar Español.
 * 日本語を勉強しています。
 
-### Traveling 
-I love traveling to different places with my family and friends. There are uncountable elements in these trips that make them memorable: The unforgettable experience of seeing an amazing and unique glacier landscape in El Calafate, Argentina, the fun conversations with people from all over the world in the desert of Morocco, the stupid and embarrassing cultural mistakes I made while transiting in Netherlands, the scrumptious Ichiran ramen I had multiple times with my Singaporean friends in Japan... 
-
-![potatochips](IMG_3446.jpg)
-I was at Potato Chip Rock in San Diego.
-
-I also enjoy having road trips. It was a great experience driving along Route 66 from Chicago all the way to Los Angeles with my greatest clique ever. Drving from San Francisco to Los Angeles on California State 1 with some of my best high school friends was another awesome trip.
-
-One really important thing: Thanks to my parents who have been generously supporting me to travel around the world and open my eyes!
-
-Here is a map of the countries that I have visited.
-![map](amCharts.png)
-
-I have visited:
-China (Of course - I'm from here), Singapore, Malaysia, Indonesia, Japan, Brazil, Argentina, Mexico, Ecuador, United States, Germany, Austria, Morocco
-
 ### Reading
 Here is a list of books I particularly enjoyed reading.
 
