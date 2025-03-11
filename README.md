@@ -10,6 +10,10 @@ Full CV is available upon request.
 My research aims to understand and mitigate the problems of bias and fairness in NLP models. My current research projects typically involve the empirical evaluations of large language models and algorithm designs to enhance fairness in natural language understanding and generation.
 
 ## Selected Publications
+"On the Mutual Influence of Gender and Occupation in LLM Representations." \\
+**Haozhe An**, Connor Baumler, Abhilasha Sancheti, Rachel Rudinger. *Preprint* \\
+\[[paper](https://arxiv.org/abs/2503.06792)\]
+
 "On the Influence of Gender and Race in Romantic Relationship Prediction from Large Language Models." \\
 **Haozhe An**\*, Abhilasha Sancheti\*, Rachel Rudinger. *EMNLP 2024.*\\
 \* Equal contributions \\
